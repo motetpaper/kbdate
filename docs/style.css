@@ -1,0 +1,21 @@
+
+input[type="datetime-local"] {
+  font-size: 20pt;
+}
+
+#outputs {
+  font-family: monospace;
+  font-size: 54pt;
+  width: 90%;
+  font-weight: bold;
+}
+
+#msg {
+  background-color: yellow;
+  border: 5px solid orange;
+  color: black;
+  font-weight: 900;
+  font-family: monospace;
+  padding: 25px;
+  font-size: 18pt;
+}
