@@ -22,3 +22,7 @@ input[type="datetime-local"] {
   padding: 25px;
   font-size: 18pt;
 }
+
+@media (max-width: 800px) {
+  /* mobile */
+}
