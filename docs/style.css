@@ -1,16 +1,16 @@
 
 input[type="datetime-local"] {
-  font-size: 15pt;
-  width: 200px;
+  font-size: 20pt;
+  width: 300px;
 }
 
 #outputs {
   font-family: monospace;
-  font-size: 14pt;
+  font-size: 24pt;
   width: 90%;
   font-weight: bold;
   text-align: center;
-  width: 200px;
+  width: 300px;
 }
 
 #msg {
