@@ -23,6 +23,14 @@ input[type="datetime-local"] {
   font-size: 18pt;
 }
 
-@media (max-width: 800px) {
-  /* mobile */
+#footer {
+  font-family: monospace;
+  font-size: 12pt;
+}
+
+@media (max-width: 350px) {
+  input, #outputs {
+    width: 250px;
+    font-size: 14pt;
+  }
 }
