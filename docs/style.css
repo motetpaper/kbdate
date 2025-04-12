@@ -28,7 +28,7 @@ input[type="datetime-local"] {
   font-size: 12pt;
 }
 
-@media (max-width: 350px) {
+@media (width <= 350px) {
   input {
     width: 250px;
     font-size: 14pt;
