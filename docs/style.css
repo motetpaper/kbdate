@@ -29,7 +29,7 @@ input[type="datetime-local"] {
 }
 
 @media (width <= 350px) {
-  input {
+  #inputdt, #outputs {
     width: 250px;
     font-size: 14pt;
   }
